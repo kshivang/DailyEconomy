@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DailyEconomy</string>
+    <string name="daily_economy">Daily Economy</string>
+    <string name="home">Home</string>
+    <string name="change_password">Change Password</string>
+    <string name="help">Help</string>
+    <string name="logout">Logout</string>
+    <string name="internet_not_working">Internet not working.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="section">
+        <item>Food Store</item>
+        <item>General Store</item>
+        <item>Laundry</item>
+        <item>Xerox center</item>
+        <item>Academic</item>
+        <item>Other</item>
+    </string-array>
+</resources>

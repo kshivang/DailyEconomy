@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "906459964286",
+    "firebase_url": "https://dailyeconomy-7f0c9.firebaseio.com",
+    "project_id": "dailyeconomy-7f0c9",
+    "storage_bucket": "dailyeconomy-7f0c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906459964286:android:2a28c410f73cdaa3",
+        "android_client_info": {
+          "package_name": "com.shivang.dailyeconomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906459964286-hn9jct99piqglegrrbqn14s2j01d9d1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivang.dailyeconomy",
+            "certificate_hash": "71AAE5C1191292E07D68F3D30C47D86F7E2A1BEA"
+          }
+        },
+        {
+          "client_id": "906459964286-0jphaq3bg7kqq5apu90339mom6394nvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3l8WeNEyQodrbBVDypw_ZcVgPIYAHLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906459964286-0jphaq3bg7kqq5apu90339mom6394nvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
